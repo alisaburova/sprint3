@@ -1,0 +1,138 @@
+body {
+background: #404040;
+}
+table{
+width: 95%;
+height: 100%;
+}
+
+
+/*THE HEADER*/
+#header{
+height: 160px;
+text-align: center;
+}
+
+
+/*THE FIRST ROW*/
+#catalogue{
+background: #9966FF ;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#catalogue:hover{
+background: #707070 ;
+color: #9999FF;
+}
+
+#neworder{
+background: #9966FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#neworder:hover{
+background: #707070;
+color: #9999FF;
+}
+
+#orders{
+background: #9966FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#orders:hover{
+background: #707070;
+color: #9999FF;
+}
+
+
+/*THE SECOND ROW*/
+
+#notes{
+background: #9933FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#notes:hover{
+background: #707070;
+color: #9999FF;
+}
+
+#contacts{
+background: #9933FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#contacts:hover{
+background: #707070;
+color: #9999FF;
+}
+
+#boss{
+background: #9933FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#boss:hover{
+background: #707070;
+color: #9999FF;
+}
+
+
+/*THE THIRD ROW*/
+#calendar{
+background: #9900FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#calendar:hover{
+background: #707070;
+color: #9999FF;
+}
+
+#map{
+background: #9900FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#map:hover{
+background: #707070;
+color: #9999FF;
+}
+
+#calculator{
+background: #9900FF;
+height: 150px;
+font-size: 25px;
+text-align: center;
+line-height: 150px;
+}
+
+#calculator:hover{
+background: #707070;
+color: #9999FF;
+}
