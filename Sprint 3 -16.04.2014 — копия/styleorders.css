@@ -1,0 +1,51 @@
+body {
+background: #404040;
+}
+table{
+width: 100%;
+}
+/*Header*/
+#order{
+background: #9966FF;
+font-size: 30px;
+padding-left:35px;
+line-height: 135px;
+float:left;
+width:50%;
+}
+
+#logo{
+text-align:right;
+float: left;
+width:40%;
+padding-top:20px;
+}
+
+/*CONTEXT*/
+#context{
+background: #d5ddde;
+height: 100%;
+min-height: 400px;
+font-size: 20px;
+padding: 20px;
+color: #9966FF;
+}
+
+#aside{
+background: #d5ddde;
+height: 100%;
+font-size: 20px;
+text-align: center;
+color: #9966FF;
+padding-top: 20px;
+}
+
+#button{
+width: 100px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+#catalogTable{
+font-size: 13px;
+}
