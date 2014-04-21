@@ -1,0 +1,59 @@
+body {
+background: #404040;
+}
+table{
+width: 100%;
+}
+/*Header*/
+#catalogue{
+background: #9966FF;
+font-size: 30px;
+padding-left:35px;
+line-height: 135px;
+float:left;
+width:50%;
+}
+
+#logo{
+text-align:right;
+float: left;
+width:40%;
+padding-top:20px;
+}
+
+/*CONTEXT*/
+#context{
+background: #d5ddde;
+height: 100%;
+font-size: 20px;
+color: #9933FF;
+padding: 40px;
+height: 100%;
+}
+
+.itemStyle{
+margin: auto auto;
+float: left;
+width: 20%;
+text-align: center;
+}
+
+
+#aside{
+background: #d5ddde;
+height: 100%;
+font-size: 20px;
+text-align: center;
+color: #9933FF;
+padding-top: 20px;
+}
+
+#button{
+width: 100px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+#input{
+width: 80%;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
